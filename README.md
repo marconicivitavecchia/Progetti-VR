@@ -30,7 +30,7 @@ Dall'anno 2022/2023 è stata attivata la "Curvatura di modellazione e programmaz
 Di seguito un elenco di applicazioni realizzate dagli studenti della nostra scuola.
 
 ### La Scuola di Atene VR
-Progetto trasversale iniziato nell'a.s. 2022/23 che coinvolge le classi del liceo scienze applicate e tecnico informatico e le materie di Storia dell'Arte, Italiano, Filosofia ed Informatica. Il protagonista è uno studente della nostra scuola che viaggia nel tempo e nello spazio per conoscere meglio la storia dell’arte, la filosofia, la geometria, la fisica, l’astronomia e capire meglio il suo presente. Il progetto è in fase di realizzazione e qualsiasi contributo è ben accetto!
+Progetto trasversale iniziato nell'a.s. 2022/23 che coinvolge le classi del liceo scienze applicate e tecnico informatico. Il protagonista è uno studente della nostra scuola che viaggia nel tempo e nello spazio per conoscere meglio la storia dell’arte, la filosofia, la geometria, la fisica, l’astronomia e capire meglio il suo presente. Il progetto è in fase di realizzazione e qualsiasi contributo è ben accetto!
 - [Presentazione del progetto](https://www.canva.com/design/DAFWuCrnHa0/gwXjm8llStUbSCK6XcVHsg/view)
 - [Repository su GitHub](https://github.com/marconicivitavecchia/the-school-of-athens-vr)
 - [Gestione del progetto](https://github.com/orgs/marconicivitavecchia/projects/1)
