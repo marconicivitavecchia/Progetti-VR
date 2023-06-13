@@ -50,6 +50,3 @@ Il giardino interno della nostra scuola completamente ricostruito in VR! [Qui](h
 ### Premi di modellazione 3D e gallerie di modelli
 
 Su Sketchfab è possibile trovare [diverse collezioni](https://sketchfab.com/marconicivitavecchia/collections) di modelli realizzati dagli studenti per varie occasioni, fra cui il premio di modellazione 3D indetto annualmente dalla nostra scuola.
-
--- 
-Prof. Claudio Capobianco
