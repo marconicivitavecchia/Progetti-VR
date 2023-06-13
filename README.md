@@ -20,17 +20,36 @@ Durante le lezioni curriculari abbiamo sperimentato l'uso di diverse applicazion
 - [The Climb](https://www.oculus.com/experiences/quest/2617233878395214/)
 - [Fit XR](https://www.oculus.com/experiences/quest/2327205800645550/)
 
-## Corsi Blender 7 Unreal
-- abbiamo corsi pomeridiani di Blender ed Unreal per i ragazzi della scuola
+## Corsi Blender & Unreal
+Abbiamo corsi pomeridiani di Blender ed Unreal, sia base che avanzato, per i ragazzi della nostra scuola, dove i partecipanti imparano a modellare in 3D, l'illuminazione, la composizine ed a programmare ambienti virtuali con strumenti di uso professionale.
 
 ## Curvatura di modellazione 3D
-- quest'anno abbiamo attivato una curvatura di modellazione e programmazione 3D, della durata triennale
+Dall'anno 2022/2023 è stata attivata la "Curvatura di modellazione e programmazione 3D", un percorso triennale inserito all'interno dell'orario scolastico antimeridiano (un'ora a settimana) dove gli studenti partecipanti impareranno ad usare un'ampia gamma di metodologie e strumenti per la modellazione e la programmazione in 3D.
 
-## La Scuola di Atene VR
+## Progetti realizzati dalla scuola
+Di seguito un elenco di applicazioni realizzate dagli studenti della nostra scuola.
 
-- - ogni anno organizziamo un Festival VR, siamo giunti alla seconda edizione- abbiamo corsi pomeridiani di Blender ed Unreal per i ragazzi della scuola
-Ma soprattutto, mi interesserebbe se possibile discutere con voi di un progetto che abbiamo cominciato quest'anno e che si chiama La scuola di Atene in VR, un progetto open-source (come tutto quello che facciamo) e (quasi) agile. È la prima volta che affrontiamo in un progetto così complesso e mi piacerebbe confrontarmi con voi. Magari potrebbe essere possibile usare i fondi del PNRR per un qualche tipo di collaborazione.
-Aspetto vostre notizie, salutiClaudio Capobianco
+### La Scuola di Atene VR
+Progetto trasversale iniziato nell'a.s. 2022/23 che coinvolge le classi del liceo scienze applicate e tecnico informatico e le materie di Storia dell'Arte, Italiano, Filosofia ed Informatica. Il protagonista è uno studente della nostra scuola che viaggia nel tempo e nello spazio per conoscere meglio la storia dell’arte, la filosofia, la geometria, la fisica, l’astronomia e capire meglio il suo presente. Il progetto è in fase di realizzazione e qualsiasi contributo è ben accetto!
+- [Presentazione del progetto](https://www.canva.com/design/DAFWuCrnHa0/gwXjm8llStUbSCK6XcVHsg/view)
+- [Repository su GitHub](https://github.com/marconicivitavecchia/the-school-of-athens-vr)
+- [Gestione del progetto](https://github.com/orgs/marconicivitavecchia/projects/1)
+
+### Project Fairytale
+
+Gioco realizzato dalla classe 5B dell'a.s. 2021/22 ambientato in un piccolo mondo da esplorare in realtà virtuale con avversari AI. La dinamica del gioco e l'ambientazione sono interamente realizzati dagli studenti usando il motore Unreal Engine.
+
+### Marconi AR
+
+Un’applicazione di realtà aumentata fruibile dal browser del cellulare dedicata a Guglielmo Marconi. L’applicazione permette a tutti gli utenti della scuola, connettendosi ad un sito internet, di “trovare” i modelli delle invenzioni di Marconi che sono “nascoste” in giro per la scuola. [Qui](https://github.com/CuriousCI/marconi-ar) il codice del progetto open-source.
+
+### VR Garden
+
+Il giardino interno della nostra scuola completamente ricostruito in VR! [Qui](https://drive.google.com/file/d/1CsIfhmmubFGT0FT8MzE9i3NcL0ogaM3_/view) un video che mostra il progetto realizzato. Il codice del progetto è disponibile su GitHub a [questo](https://github.com/DavideSky/VR-Garden) link.
+
+### Premi di modellazione 3D e gallerie di modelli
+
+Su Sketchfab è possibile trovare [diverse collezioni](https://sketchfab.com/marconicivitavecchia/collections) di modelli realizzati dagli studenti per varie occasioni, fra cui il premio di modellazione 3D indetto annualmente dalla nostra scuola.
 
 -- 
 Prof. Claudio Capobianco
