@@ -21,12 +21,12 @@ Durante le lezioni curriculari abbiamo sperimentato l'uso di diverse applicazion
 - [Fit XR](https://www.oculus.com/experiences/quest/2327205800645550/)
 
 ## Corsi Blender & Unreal
-Abbiamo corsi pomeridiani di Blender ed Unreal, sia base che avanzato, per i ragazzi della nostra scuola, dove i partecipanti imparano a modellare in 3D, l'illuminazione, la composizine ed a programmare ambienti virtuali con strumenti di uso professionale.
+La nostra scuola propone corsi pomeridiani di Blender ed Unreal, sia di livello base che avanzato, dove i partecipanti imparano la modellazione 3D, illuminazione, shading, texturing, etc. ed a programmare ambienti virtuali in modo interattivo usando strumenti di uso professionale.
 
 ## Curvatura di modellazione 3D
-Dall'anno 2022/2023 è stata attivata la "Curvatura di modellazione e programmazione 3D", un percorso triennale inserito all'interno dell'orario scolastico antimeridiano (un'ora a settimana) dove gli studenti partecipanti impareranno ad usare un'ampia gamma di metodologie e strumenti per la modellazione e la programmazione in 3D.
+Dall'anno 2022/2023 è stata attivata la "Curvatura di modellazione e programmazione 3D", un percorso triennale inserito all'interno dell'orario scolastico antimeridiano (un'ora a settimana) dove gli studenti imparano ad usare un'ampia gamma di metodologie e strumenti per la modellazione e la programmazione in 3D.
 
-## Progetti realizzati dalla scuola
+## Progetti realizzati dagli studenti della scuola
 Di seguito un elenco di applicazioni realizzate dagli studenti della nostra scuola.
 
 ### La Scuola di Atene VR
