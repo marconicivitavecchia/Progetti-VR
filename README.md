@@ -11,7 +11,7 @@ Ogni anno la nostra scuola organizzia il Festival VR:
 - [edizione 2023](https://marconicivitavecchia.github.io/2023-vrfestival-website/)
 
 ## Integrazione con le materie curriculari
-Durante le lezioni curriculari abbiamo sperimentato l'uso di diverse applicazioni, tra cui:
+Durante le lezioni curriculari abbiamo sperimentato l'uso di diverse applicazioni in realtà virtuale, tra cui:
 - [Sharecare You VR](https://www.oculus.com/experiences/quest/5090936304309796/)
 - [The Thrill of Fight](https://www.oculus.com/experiences/quest/3008315795852749/)
 - [Spheres](https://www.oculus.com/experiences/quest/3789736921099233/)
