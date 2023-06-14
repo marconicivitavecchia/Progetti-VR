@@ -26,6 +26,9 @@ La nostra scuola propone corsi pomeridiani di Blender ed Unreal, sia di livello 
 ## Curvatura di modellazione 3D
 Dall'anno 2022/2023 è stata attivata la "Curvatura di modellazione e programmazione 3D", un percorso triennale inserito all'interno dell'orario scolastico antimeridiano (un'ora a settimana) dove gli studenti imparano ad usare un'ampia gamma di metodologie e strumenti per la modellazione e la programmazione in 3D.
 
+## Notte Bianca - Laboratorio VR
+Durante la notte bianca, evento serale organizzato dalla nostra scuola, gli studenti organizzano un laboratorio di Realtà Virtuale dove i visitatori possono provare diverse esperienze selezionate tra quelle a disposizione nello store e quelle realizzate all'interno della nostra scuola.
+
 ## Progetti realizzati dagli studenti della scuola
 Di seguito un elenco di applicazioni realizzate dagli studenti della nostra scuola.
 
