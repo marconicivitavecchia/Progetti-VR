@@ -44,7 +44,7 @@ Gioco realizzato dalla classe 5B dell'a.s. 2021/22 ambientato in un piccolo mond
 
 ### Marconi AR
 
-Un’applicazione di realtà aumentata fruibile dal browser del cellulare dedicata a Guglielmo Marconi. L’applicazione permette a tutti gli utenti della scuola, connettendosi ad un sito internet, di “trovare” i modelli delle invenzioni di Marconi che sono “nascoste” in giro per la scuola. [Qui](https://github.com/CuriousCI/marconi-ar) il codice del progetto open-source.
+Un’applicazione di realtà aumentata fruibile dal browser del cellulare dedicata a Guglielmo Marconi. L’applicazione permette a tutti gli utenti della scuola, connettendosi ad un sito internet, di “trovare” i modelli delle invenzioni di Marconi che sono “nascoste” in giro per la scuola. [Qui](https://github.com/marconicivitavecchia/marconi-ar) il codice del progetto open-source.
 
 ### VR Garden
 
