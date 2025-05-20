@@ -48,7 +48,7 @@ Un’applicazione di realtà aumentata fruibile dal browser del cellulare dedica
 
 ### VR Garden
 
-Il giardino interno della nostra scuola completamente ricostruito in VR! [Qui](https://drive.google.com/file/d/1CsIfhmmubFGT0FT8MzE9i3NcL0ogaM3_/view) un video che mostra il progetto realizzato. Il codice del progetto è disponibile su GitHub a [questo](https://github.com/DavideSky/VR-Garden) link.
+Il giardino interno della nostra scuola completamente ricostruito in VR! [Qui](https://drive.google.com/file/d/1CsIfhmmubFGT0FT8MzE9i3NcL0ogaM3_/view) un video che mostra il progetto realizzato. Il codice del progetto è disponibile su GitHub a [questo](https://github.com/marconicivitavecchia/VR-Garden) link.
 
 ### Premi di modellazione 3D e gallerie di modelli
 
